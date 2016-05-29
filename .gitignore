@@ -2,7 +2,7 @@
 
 # 클라이언트
 client_example/boost.framework
-client_example/CMakeList.txt
+client_example/CMakeLists.txt
 client_example/cocos2d/
 client_example/proj.android/
 client_example/proj.android-studio/
