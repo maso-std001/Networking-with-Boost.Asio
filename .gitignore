@@ -1,0 +1,18 @@
+#무시
+
+# 클라이언트
+client_example/boost.framework
+client_example/CMakeList.txt
+client_example/cocos2d/
+client_example/proj.android/
+client_example/proj.android-studio/
+client_example/proj.ios_mac/
+client_example/proj.linux/
+client_example/proj.win8.1-universal/
+client_example/proj.win10/
+client_example/proj.win32/
+
+# 서버
+server_example/boost.framework
+server_example/server_example.xcodeproj
+
